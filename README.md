@@ -19,5 +19,5 @@ python -m pip install scikit-event-correlation
 
 
 ## Example Project
-See the example project in the example/ directory of the GitHub repository.
+See the example project in the [example/](https://github.com/Intellia-SME/scikit-event-correlation/tree/main/example) directory of the GitHub repository.
 
