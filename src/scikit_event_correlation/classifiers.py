@@ -3,9 +3,6 @@ from math import exp
 import pandas as pd
 import numpy as np
 from scipy import stats
-
-
-
 from sklearn.neighbors import KNeighborsMixin, ClassifierMixin, NeighborsBase
 from .utils import _check_weights, _get_weights, weighted_mode, _num_samples
 
